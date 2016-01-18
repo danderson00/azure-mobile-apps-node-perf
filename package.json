@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "azure-mobile-apps": "Azure/azure-mobile-apps-node",
+    "express": "^4.13.3"
+  }
+}
